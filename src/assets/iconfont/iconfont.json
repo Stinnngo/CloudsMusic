@@ -1,0 +1,37 @@
+{
+  "id": "4105911",
+  "name": "zuge",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3079221",
+      "name": "网易云_灰",
+      "font_class": "wangyiyungrey",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "36420949",
+      "name": "wangyiyun-copy",
+      "font_class": "wangyiyun",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2279452",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "2279512",
+      "name": "箭头",
+      "font_class": "jiantou-copy-copy",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}
